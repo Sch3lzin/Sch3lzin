@@ -1,4 +1,4 @@
-## Olá!, Eu sou o Daniel Schefer
+## Olá!, Eu sou o Daniel Schefer <img heigt="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <div>
 <a href="https://github.com/Sch3lzin">
