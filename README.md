@@ -15,7 +15,7 @@
 
 <code><img height="20" alt="javascript" src="./img/js.png"></code>
 <code><img height="25" alt="html" src="./img/html-icon.png"></code>
-<code><img height="25" alt="css" src="./img/html-icon.png"></code>
+<code><img height="25" alt="css" src="./img/css-icon.png"></code>
 
   ##
 
