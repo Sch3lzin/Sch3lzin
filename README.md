@@ -13,9 +13,9 @@
 
 #### Technologies
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" alt="html" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"></code>
-<code><img height="25" alt="css" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"></code>
+<code><img height="20" alt="javascript" src="./img/js.png"></code>
+<code><img height="25" alt="html" src="./img/html-icon.png"></code>
+<code><img height="25" alt="css" src="./img/html-icon.png"></code>
 
   ##
 
