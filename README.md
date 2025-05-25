@@ -4,7 +4,7 @@
 
 - 💻 I am a beginner in programming
   
-- 📚 I'm currently learning basic programming logic
+- 📚 I'm currently learning Front-end
 
 - 📍 Today, I live in Brazil
 
