@@ -2,9 +2,9 @@
 
 ## About me
 
-- 💻 I am a beginner in programming
+- 💻 I'm a programming student
   
-- 📚 I'm currently learning Front-end
+- 📚 I'm currently learning C#
 
 - 📍 Today, I live in Brazil
 
