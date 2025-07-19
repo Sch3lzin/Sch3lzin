@@ -4,7 +4,7 @@
 
 - 💻 I'm a programming student
   
-- 📚 I'm currently learning Node.JS
+- 📚 I'm currently learning JavaScript
 
 - 📍 Today, I live in Brazil
 
