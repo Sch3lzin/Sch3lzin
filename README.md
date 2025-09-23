@@ -15,8 +15,6 @@
 
 <code><img height="20" alt="react" src="./img/react-icon.png"></code>
 <code><img height="20" alt="javascript" src="./img/JsReserva.png"></code>
-<code><img height="20" alt="html" src="./img/html-icon.png"></code>
-<code><img height="20" alt="css" src="./img/css-icon.png"></code>
 
   ##
 
