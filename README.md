@@ -4,15 +4,13 @@
 
 - 💻 I'm a programming student
   
-- 📚 I'm currently learning React
+- 📚 I'm currently learning Back-end with Java
 
 - 📍 Today, I live in Brazil
 
-| <a href="https://github.com/Sch3lzin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sch3lzin&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Sch3lzn github stats" /></a> | <a href="https://github.com/Sch3lzin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sch3lzin&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 #### Technologies
 
+<code><img height="20" alt="java" src="./img/java-icon.png"></code>
 <code><img height="20" alt="react" src="./img/react-icon.png"></code>
 <code><img height="20" alt="javascript" src="./img/JsReserva.png"></code>
 
