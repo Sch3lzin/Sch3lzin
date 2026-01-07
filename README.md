@@ -1,23 +1,26 @@
-# Hi, my name is Daniel Schefer <img heigt="10" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+# Hi, my name is Daniel Schefer 👋
 
 ## About me
+- 💻 Programming student passionate about technology  
+- ☕ Currently focusing on Back-end development with **Java**  
+- ⚛️ Experience with **React** and **JavaScript**  
+- 🌎 Based in Brazil  
 
-- 💻 I'm a programming student
-  
-- 📚 I'm currently learning Back-end with Java
+## Technologies
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+</p>
 
-- 📍 Today, I live in Brazil
+## Goals
+- 🚀 Improve my back-end skills with Java  
+- 📚 Learn more about software architecture and clean code  
+- 🌱 Grow towards a Full-Stack Software Engineer career  
 
-#### Technologies
-
-<code><img height="20" alt="java" src="./img/java-icon.png"></code>
-<code><img height="20" alt="react" src="./img/react-icon.png"></code>
-<code><img height="20" alt="javascript" src="./img/JsReserva.png"></code>
-
-  ##
-
-<div>
-  <a href="https://www.linkedin.com/in/daniel-schefer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/><a/>
-  <a href="https://twitter.com/sch3lzin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/><a/>
-  <a href="https://www.instagram.com/sch3lzin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/><a/>
-<div/>
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sch3lzin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sch3lzin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sch3lzin)
